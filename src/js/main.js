@@ -25,15 +25,12 @@ Alpine.persistedStore("app", {
 //Start Alpine JS
 Alpine.start()
 
-import { env } from "./libs/utils/constants";
-import { switchDemoImages, insertBgImages } from "./libs/utils/utils";
+import { insertBgImages } from "./libs/utils/utils";
 import "./libs/components";
 import "./libs/pages";
 
 document.onreadystatechange = function () {
   if (document.readyState == "complete") {
-    //Switch demo images
-    const changeImages = switchDemoImages(env);
 
     //Switch backgrounds
     const changeBackgrounds = insertBgImages();
