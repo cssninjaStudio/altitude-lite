@@ -30,7 +30,6 @@ Alpine.start()
 
 import { insertBgImages } from "./libs/utils/utils";
 import { initLazyLoading } from './libs/utils/lazyload';
-import "./libs/demo";
 import "./libs/components";
 import "./libs/pages";
 
