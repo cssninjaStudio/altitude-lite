@@ -29,15 +29,11 @@ Alpine.store('app', {
 Alpine.start()
 
 import { insertBgImages } from "./libs/utils/utils";
-import { initLazyLoading } from './libs/utils/lazyload';
 import "./libs/components";
 import "./libs/pages";
 
 document.onreadystatechange = function () {
   if (document.readyState == "complete") {
-
-    //Lazy Loading
-    const lazy = initLazyLoading();
 
     //Switch backgrounds
     const changeBackgrounds = insertBgImages();

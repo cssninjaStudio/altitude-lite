@@ -6,7 +6,7 @@ Altitude Lite is a bulma dashboard kit built with Bulma 0.9.x and AlpineJS v3.x.
 
 ## ✌️ preview
 
-Check out the live demo (full product) by clicking [here](https://altitude-lite.cssninja.io/). 
+Check out the live demo by clicking [here](https://altitude-lite.cssninja.io/). 
 Altitude is built with [Bulma](https://bulma.io) and [Alpine JS](https://github.com/alpinejs/alpine).
 
 ## 👍 Features
@@ -30,7 +30,7 @@ pnpm i
 pnpm dev
 ```
 
-2. To build the project
+3. To build the project
 
 ```sh
 pnpm build
