@@ -1,6 +1,6 @@
 export const data = [
   {
-    picture: "/img/avatars/36.jpg",
+    picture: '/img/avatars/36.jpg',
     name: "Brielle Kuphal",
     email: "Brielle31@gmail.com",
     job: "Business analyst",
@@ -8,7 +8,7 @@ export const data = [
     year: 1989,
   },
   {
-    picture: "/img/avatars/49.jpg",
+    picture: '/img/avatars/49.jpg',
     name: "Barney Murray",
     email: "Barney75@gmail.com",
     job: "Solution architect",
@@ -16,7 +16,7 @@ export const data = [
     year: 1970,
   },
   {
-    picture: "/img/avatars/24.jpg",
+    picture: '/img/avatars/24.jpg',
     name: "Ressie Ruecker",
     email: "Ressie.Ruecker30@gmail.com",
     job: "UX designer",
@@ -24,7 +24,7 @@ export const data = [
     year: 1967,
   },
   {
-    picture: "/img/avatars/30.jpg",
+    picture: '/img/avatars/30.jpg',
     name: "Teresa Mertz",
     email: "Teresa_Mertz@hotmail.com",
     job: "Sales Manager",
@@ -40,7 +40,7 @@ export const data = [
     year: 1962,
   },
   {
-    picture: "/img/avatars/34.jpg",
+    picture: '/img/avatars/34.jpg',
     name: "Tatyana Metz",
     email: "Tatyana_Metz91@gmail.com",
     job: "Product manager",
@@ -48,7 +48,7 @@ export const data = [
     year: 1983,
   },
   {
-    picture: "/img/avatars/31.jpg",
+    picture: '/img/avatars/31.jpg',
     name: "Oleta Harvey",
     email: "Oleta_Harvey@yahoo.com",
     job: "Frontend developer",
@@ -56,7 +56,7 @@ export const data = [
     year: 1963,
   },
   {
-    picture: "/img/avatars/51.jpg",
+    picture: '/img/avatars/51.jpg',
     name: "Bette Haag",
     email: "Bette.Haag99@gmail.com",
     job: "Backend developer",
@@ -72,7 +72,7 @@ export const data = [
     year: 1964,
   },
   {
-    picture: "/img/avatars/28.jpg",
+    picture: '/img/avatars/28.jpg',
     name: "Elissa Stroman",
     email: "Elissa.Stroman6@yahoo.com",
     job: "HR Manager",
@@ -96,7 +96,7 @@ export const data = [
     year: 1968,
   },
   {
-    picture: "/img/avatars/29.jpg",
+    picture: '/img/avatars/29.jpg',
     name: "Waylon Kihn",
     email: "Waylon27@yahoo.com",
     job: "Support agent",
@@ -112,7 +112,7 @@ export const data = [
     year: 1958,
   },
   {
-    picture: "/img/avatars/42.jpg",
+    picture: '/img/avatars/42.jpg',
     name: "Lenora MacGyver",
     email: "Lenora_MacGyver@yahoo.com",
     job: "Marketing associate",
@@ -120,7 +120,7 @@ export const data = [
     year: 1981,
   },
   {
-    picture: "/img/avatars/1.jpg",
+    picture: '/img/avatars/1.jpg',
     name: "Ole Collier",
     email: "Ole51@hotmail.com",
     job: "Web developer",
@@ -136,7 +136,7 @@ export const data = [
     year: 1980,
   },
   {
-    picture: "/img/avatars/32.jpg",
+    picture: '/img/avatars/32.jpg',
     name: "Thalia Yost",
     email: "Thalia73@gmail.com",
     job: "CEO",
@@ -144,7 +144,7 @@ export const data = [
     year: 1988,
   },
   {
-    picture: "/img/avatars/27.jpg",
+    picture: '/img/avatars/27.jpg',
     name: "Okey Kling",
     email: "Okey84@gmail.com",
     job: "HR manager",
@@ -168,7 +168,7 @@ export const data = [
     year: 1990,
   },
   {
-    picture: "/img/avatars/48.jpg",
+    picture: '/img/avatars/48.jpg',
     name: "Genevieve Pouros",
     email: "Genevieve29@hotmail.com",
     job: "Business analyst",
@@ -184,7 +184,7 @@ export const data = [
     year: 1968,
   },
   {
-    picture: "/img/avatars/46.jpg",
+    picture: '/img/avatars/46.jpg',
     name: "Eleazar Konopelski",
     email: "Eleazar_Konopelski@hotmail.com",
     job: "Engineer",
@@ -200,7 +200,7 @@ export const data = [
     year: 1964,
   },
   {
-    picture: "/img/avatars/41.jpg",
+    picture: '/img/avatars/41.jpg',
     name: "Brian Hermann",
     email: "Brian12@hotmail.com",
     job: "Product manager",
@@ -216,7 +216,7 @@ export const data = [
     year: 1977,
   },
   {
-    picture: "/img/avatars/45.jpg",
+    picture: '/img/avatars/45.jpg',
     name: "David Rosenbaum",
     email: "David75@hotmail.com",
     job: "System administrator",
@@ -232,7 +232,7 @@ export const data = [
     year: 1973,
   },
   {
-    picture: "/img/avatars/58.jpg",
+    picture: '/img/avatars/58.jpg',
     name: "Asha Bartell",
     email: "Asha82@gmail.com",
     job: "Marketing manager",
@@ -240,7 +240,7 @@ export const data = [
     year: 1991,
   },
   {
-    picture: "/img/avatars/17.jpg",
+    picture: '/img/avatars/17.jpg',
     name: "Alexane Bode",
     email: "Alexane_Bode30@yahoo.com",
     job: "Wen developer",
@@ -264,7 +264,7 @@ export const data = [
     year: 1973,
   },
   {
-    picture: "/img/avatars/1.jpg",
+    picture: '/img/avatars/1.jpg',
     name: "Ephraim Wiegand",
     email: "Ephraim88@gmail.com",
     job: "Direct Identity Administrator",
@@ -272,7 +272,7 @@ export const data = [
     year: 1946,
   },
   {
-    picture: "/img/avatars/20.jpg",
+    picture: '/img/avatars/20.jpg',
     name: "Jarrett Grimes",
     email: "Jarrett.Grimes99@gmail.com",
     job: "Web Strategist",
@@ -288,7 +288,7 @@ export const data = [
     year: 1959,
   },
   {
-    picture: "/img/avatars/11.jpg",
+    picture: '/img/avatars/11.jpg',
     name: "Janelle Stroman",
     email: "Janelle_Stroman@yahoo.com",
     job: "HR manager",
@@ -312,7 +312,7 @@ export const data = [
     year: 1981,
   },
   {
-    picture: "/img/avatars/19.jpg",
+    picture: '/img/avatars/19.jpg',
     name: "Dustin Bahringer",
     email: "Dustin76@hotmail.com",
     job: "Graphic Designer",
@@ -320,7 +320,7 @@ export const data = [
     year: 1988,
   },
   {
-    picture: "/img/avatars/8.jpg",
+    picture: '/img/avatars/8.jpg',
     name: "Mary Sanford",
     email: "Mary44@yahoo.com",
     job: "Accountant",
@@ -344,7 +344,7 @@ export const data = [
     year: 1990,
   },
   {
-    picture: "/img/avatars/44.jpg",
+    picture: '/img/avatars/44.jpg',
     name: "Elenora McLaughlin",
     email: "Elenora_McLaughlin@yahoo.com",
     job: "Legacy Engineer",
@@ -360,7 +360,7 @@ export const data = [
     year: 1967,
   },
   {
-    picture: "/img/avatars/23.jpg",
+    picture: '/img/avatars/23.jpg',
     name: "Adrian Ondricka",
     email: "adrian.ondricka@hotmail.com",
     job: "UX Designer",
@@ -368,7 +368,7 @@ export const data = [
     year: 1991,
   },
   {
-    picture: "/img/avatars/43.jpg",
+    picture: '/img/avatars/43.jpg',
     name: "Bernardo Krajcik",
     email: "Bernardo_Krajcik81@hotmail.com",
     job: "Fullstack developer",
@@ -392,7 +392,7 @@ export const data = [
     year: 1986,
   },
   {
-    picture: "/img/avatars/40.jpg",
+    picture: '/img/avatars/40.jpg',
     name: "Margie Kreiger",
     email: "Margie_Kreiger@gmail.com",
     job: "Corporate Analyst",
@@ -400,7 +400,7 @@ export const data = [
     year: 1983,
   },
   {
-    picture: "/img/avatars/15.jpg",
+    picture: '/img/avatars/15.jpg',
     name: "Adrianna Heller",
     email: "adrianna.heller23@yahoo.com",
     job: "Project manager",
@@ -424,7 +424,7 @@ export const data = [
     year: 1987,
   },
   {
-    picture: "/img/avatars/26.jpg",
+    picture: '/img/avatars/26.jpg',
     name: "Spencer Zieme",
     email: "Spencer.Zieme@yahoo.com",
     job: "Web developer",
@@ -432,7 +432,7 @@ export const data = [
     year: 1977,
   },
   {
-    picture: "/img/avatars/37.jpg",
+    picture: '/img/avatars/37.jpg',
     name: "Kamron Muller",
     email: "Kamron3@yahoo.com",
     job: "Customer strategist",
@@ -440,7 +440,7 @@ export const data = [
     year: 1969,
   },
   {
-    picture: "/img/avatars/14.jpg",
+    picture: '/img/avatars/14.jpg',
     name: "Betsy Wiegand",
     email: "Betsy.Wiegand@gmail.com",
     job: "Product manager",
@@ -456,7 +456,7 @@ export const data = [
     year: 1986,
   },
   {
-    picture: "/img/avatars/46.jpg",
+    picture: '/img/avatars/46.jpg',
     name: "Bella Kunze",
     email: "Bella.Kunze@hotmail.com",
     job: "District Branding Designer",
@@ -464,7 +464,7 @@ export const data = [
     year: 1975,
   },
   {
-    picture: "/img/avatars/33.jpg",
+    picture: '/img/avatars/33.jpg',
     name: "Bradford Quitzon",
     email: "Bradford3@yahoo.com",
     job: "Project manager",
@@ -472,7 +472,7 @@ export const data = [
     year: 1992,
   },
   {
-    picture: "/img/avatars/7.jpg",
+    picture: '/img/avatars/7.jpg',
     name: "Adrien Gerhold",
     email: "Adrien73@yahoo.com",
     job: "Fullstack developer",
@@ -480,7 +480,7 @@ export const data = [
     year: 1978,
   },
   {
-    picture: "/img/avatars/47.jpg",
+    picture: '/img/avatars/47.jpg',
     name: "Micheal Walter",
     email: "Micheal.Walter62@gmail.com",
     job: "Team Coordinator",
@@ -488,7 +488,7 @@ export const data = [
     year: 1990,
   },
   {
-    picture: "/img/avatars/18.jpg",
+    picture: '/img/avatars/18.jpg',
     name: "Alberto Glover",
     email: "Alberto14@hotmail.com",
     job: "Software Engineer",
@@ -504,7 +504,7 @@ export const data = [
     year: 1977,
   },
   {
-    picture: "/img/avatars/39.jpg",
+    picture: '/img/avatars/39.jpg',
     name: "Deven Stark",
     email: "Deven_Stark@hotmail.com",
     job: "Software engineer",
@@ -520,7 +520,7 @@ export const data = [
     year: 1985,
   },
   {
-    picture: "/img/avatars/56.jpg",
+    picture: '/img/avatars/56.jpg',
     name: "Kendall DAmore",
     email: "Kendall77@yahoo.com",
     job: "Corporate Consultant",
@@ -528,7 +528,7 @@ export const data = [
     year: 1982,
   },
   {
-    picture: "/img/avatars/50.jpg",
+    picture: '/img/avatars/50.jpg',
     name: "Keeley Gleichner",
     email: "Keeley_Gleichner@yahoo.com",
     job: "Operations officer",
@@ -552,7 +552,7 @@ export const data = [
     year: 1976,
   },
   {
-    picture: "/img/avatars/57.jpg",
+    picture: '/img/avatars/57.jpg',
     name: "Edwin Willms",
     email: "Edwin30@yahoo.com",
     job: "Creative director",
@@ -568,7 +568,7 @@ export const data = [
     year: 1972,
   },
   {
-    picture: "/img/avatars/54.jpg",
+    picture: '/img/avatars/54.jpg',
     name: "Claudie Heidenreich",
     email: "Claudie.Heidenreich20@yahoo.com",
     job: "Regional Director",
@@ -576,7 +576,7 @@ export const data = [
     year: 1990,
   },
   {
-    picture: "/img/avatars/53.jpg",
+    picture: '/img/avatars/53.jpg',
     name: "Vernice Mann",
     email: "Vernice61@yahoo.com",
     job: "Software engineer",
@@ -592,7 +592,7 @@ export const data = [
     year: 1973,
   },
   {
-    picture: "/img/avatars/55.jpg",
+    picture: '/img/avatars/55.jpg',
     name: "Ronny Dietrich",
     email: "Ronny.Dietrich@hotmail.com",
     job: "Investor Metrics",
@@ -616,7 +616,7 @@ export const data = [
     year: 1991,
   },
   {
-    picture: "/img/avatars/12.jpg",
+    picture: '/img/avatars/12.jpg',
     name: "Alanis Torp",
     email: "Alanis61@hotmail.com",
     job: "HR Manager",
@@ -640,7 +640,7 @@ export const data = [
     year: 1984,
   },
   {
-    picture: "/img/avatars/56.jpg",
+    picture: '/img/avatars/56.jpg',
     name: "Edyth McCullough",
     email: "Edyth_McCullough12@hotmail.com",
     job: "Human Integration Manager",

@@ -1,20 +1,21 @@
 # Altitude Lite - Alpine v3 Dashboard template
 
-Altitude Lite is a bulma dashboard kit built with Bulma 0.9.x and AlpineJS v3.x. Altitude Lite is a demo version of Altitude, our full dashboard UI Kit. Discover the full version here: [Full product demo](https://altitude.csssninja.io).
+Altitude Lite is a bulma dashboard kit built with Astro v1.x, Bulma 0.9.x and Alpine.js v3.x. Altitude Lite is a demo version of Altitude, our full dashboard UI Kit. Discover the full version here: [Full product demo](https://altitude.csssninja.io).
 
 ![Screenshot](https://media.cssninja.io/products/altitude/product.png "Altitude")
 
 ## ✌️ preview
 
 Check out the live demo by clicking [here](https://altitude-lite.cssninja.io/). 
-Altitude is built with [Bulma](https://bulma.io) and [Alpine JS](https://github.com/alpinejs/alpine).
+Altitude is built with [Bulma](https://bulma.io) and [Alpine.js](https://github.com/alpinejs/alpine).
 
 ## 👍 Features
 
-* Gulp 4 and nodejs 16.x (minimum)
+* Astro v1.x
+* Nodejs 16.x (minimum)
 * Bulma 0.9.x
 * ES6 support
-* Alpine v3.x
+* Alpine.js v3.x
 
 ## 👌 Usage
 
@@ -53,6 +54,5 @@ Find more premium webapp and website templates on [Css Ninja](https://cssninja.i
 ## 🚀 About Us
 
 Css Ninja is a web design studio. We build handcrafted and polished templates that will give some hype to your startup or to your next project.
-
 
 

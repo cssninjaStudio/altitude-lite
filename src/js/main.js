@@ -5,6 +5,7 @@ import Alpine from "alpinejs"
 import intersect from "@alpinejs/intersect"
 import collapse from '@alpinejs/collapse';
 import persist from "@alpinejs/persist";
+import Iconify from '@iconify/iconify';
 
 window.Alpine = Alpine
 //Init intersect plugin
@@ -29,11 +30,15 @@ Alpine.store('app', {
 Alpine.start()
 
 import { insertBgImages } from "./libs/utils/utils";
+import { initLazyLoading } from './libs/utils/lazyload';
 import "./libs/components";
 import "./libs/pages";
 
 document.onreadystatechange = function () {
   if (document.readyState == "complete") {
+
+    //Lazy Loading
+    const lazy = initLazyLoading();
 
     //Switch backgrounds
     const changeBackgrounds = insertBgImages();
