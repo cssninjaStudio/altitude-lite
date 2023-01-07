@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/cssninjaStudio/altitude-lite/compare/v1.0.2...v2.0.0) (2023-01-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* migrate from gulp to astro
+
+### Features
+
+* migrate from gulp to astro ([32fe7a4](https://github.com/cssninjaStudio/altitude-lite/commit/32fe7a4c83ce8542610bfcdedc10ccd950349753))
+
 ### [1.0.2](https://github.com/cssninjaStudio/altitude-lite/compare/v1.0.1...v1.0.2) (2022-11-27)
 
 ### [1.0.1](https://github.com/cssninjaStudio/altitude-lite/compare/v1.0.0...v1.0.1) (2022-11-08)
