@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/cssninjaStudio/altitude-lite/compare/v2.0.0...v2.1.0) (2023-02-10)
+
+
+### Features
+
+* upgrade to Astro v2 ([43cff99](https://github.com/cssninjaStudio/altitude-lite/commit/43cff997395e54fad0b65c38b93ac865b052b264))
+
 ## [2.0.0](https://github.com/cssninjaStudio/altitude-lite/compare/v1.0.2...v2.0.0) (2023-01-07)
 
 
