@@ -1,6 +1,6 @@
 {
   "name": "altitude-lite",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "type": "module",
   "description": "Bulma + AlpineJS Dashboard Kit (Lite version)",
   "private": true,
