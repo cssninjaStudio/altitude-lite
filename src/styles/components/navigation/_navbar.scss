@@ -118,6 +118,13 @@ Navbar
           color: var(--light-text);
           transition: stroke 0.3s;
         }
+
+        .iconify {
+          font-size: 1rem;
+          stroke: var(--light-text);
+          color: var(--light-text);
+          transition: stroke 0.3s;
+        }
       }
 
       .dropdown-wrap {

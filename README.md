@@ -7,15 +7,13 @@ Altitude Lite is a bulma dashboard kit built with Astro v1.x, Bulma 0.9.x and Al
 ## ✌️ preview
 
 Check out the live demo by clicking [here](https://altitude-lite.cssninja.io/). 
-Altitude is built with [Bulma](https://bulma.io) and [Alpine.js](https://github.com/alpinejs/alpine).
+Altitude is built with [Astro](https://astro.build), [Bulma](https://bulma.io) and [Alpine.js](https://github.com/alpinejs/alpine).
 
 ## 👍 Features
 
-* Astro v1.x
-* Nodejs 16.x (minimum)
+* Astro v4.x
 * Bulma 0.9.x
-* ES6 support
-* Alpine.js v3.x
+* Alpine v3.x
 
 ## 👌 Usage
 
